@@ -7,7 +7,7 @@ namespace hallo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Please Put Student Number");
+            Console.WriteLine("Please Put Student ID Number");
             string StudentInput = Console.ReadLine();
 
             
